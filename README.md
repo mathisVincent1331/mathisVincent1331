@@ -10,7 +10,7 @@
 ### 🔐 [Krypton'IT](https://github.com/Haleckse/Krypton-IT)
 
 - **Description:** An app gathering multiple cipher algorithms (XOR, CBC, Mask) and brute force methods.
-- **Tech Stack:** ? ? ?
+- **Tech Stack:** C/C++, Diffie-Hellman Key Exchange, Linux/ Shell Scripting
 - **Type:** Team Project / Managerial skills.
 
 
@@ -21,10 +21,10 @@
 - **Type:** Solo Project / Erasmus Experience.
 
 
-### 🔑 [AES Cipher App](https://github.com/mathisVincent1331/Encryption_files-API)
+### 🔑 [AES Cipher App](https://github.com/mathisVincent1331/Encryption_files-API) *(Private Code)*
 
 - **Description:** A website app allowing files encryption with ease access.
-- **Tech Stack:** HTML, CSS, Javascript, Python.
+- **Tech Stack:** HTML5 & CSS, Javascript, Web Cryptography, Client-side Application.
 - **Type:** Solo Project
 
 
