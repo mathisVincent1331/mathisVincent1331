@@ -7,7 +7,7 @@
 
 ## 🛠 My Projects
 
-### 🔐 [Krypton'IT](https://github.com/Haleckse/Krypton-IT))
+### 🔐 [Krypton'IT](https://github.com/Haleckse/Krypton-IT)
 
 - **Description:** An app gathering multiple cipher algorithms (XOR, CBC, Mask) and brute force methods.
 - **Tech Stack:** ? ? ?
